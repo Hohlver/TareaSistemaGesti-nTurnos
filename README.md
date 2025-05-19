@@ -1,4 +1,4 @@
-# TareaSistemaGesti-nTurnos
+# Sistema de Gestión de Turnos Digitales
 
 ## Descripcion general
 
