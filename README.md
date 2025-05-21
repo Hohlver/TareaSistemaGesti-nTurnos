@@ -3,7 +3,8 @@
 ## 📌 Descripcion general
 
 El sistema tunomatico presenta una solucion para la gestion automatizada de turnos en entornos que requieren de atencion secuencial de clientes, ya sean bancos, hospitales o servicios publicos en general. El sistema permite asignar turnos de manera inteligente, notificar a usuarios y gestionar colas de atencion, optimizando tiempos de espera y mejorando la experiencia de usuario.
-----
+
+
 ## 🖼️ Diagramas UML 
 
 ### 1. Diagrama de Casos de Uso 
@@ -32,7 +33,7 @@ Todos los métodos relevantes están definidos, y no hay clases aisladas o sin r
 
 Este diseño promueve **separación de responsabilidades**, **alta cohesión** y **bajo acoplamiento**, pilares fundamentales de la arquitectura de software profesional.
 
-----
+
 ## 🧠 Reflexiones Finales del Modelado
 
 El proceso de modelado arquitectónico permitió aplicar las buenas prácticas de la ingeniería de software y además demostrar la posible evolución de una visión funcional inicial a una implementación realista en base a los patrones de diseño aplicados, no solo mejorando la claridad estructural de un proyecto, sino que facilitando también la decisiones arquitectónicas clave que se presentan en su desarrollo, tales como la reutilización (Prototype), la unicidad de control (Singleton) y la interoperabilidad con servicios externos (Adapter).
